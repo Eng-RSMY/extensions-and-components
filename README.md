@@ -1,5 +1,5 @@
 # Thunkable Extensions
-This repository is intended to be used for Thunkable extensions which are being considered for incorporation as Thunkable components. It is a fork of the appinventor-sources repository from MIT.  The orginal App Inventor README file can be viewed [here](./README-orig.md).
+This repository is intended to be used for Thunkable extensions which are being considered for incorporation as Thunkable components. It is a fork of the appinventor-sources repository from MIT.  The original App Inventor README file can be viewed [here](./README-orig.md).
 
 Note that this is a public open source repository using the Apache 2 license.  If you put your code in this repo your extension source can be freely used by anybody for any pupose.  Please make sure that your source code files contain a mention of the license by putting some comments near the top such as:
 ```
